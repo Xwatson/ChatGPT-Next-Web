@@ -160,7 +160,7 @@ export function SideBar(props: { className?: string }) {
         <div className={styles["sidebar-sub-title"]}>
           欢迎使用
           <br />
-          推荐模型: gpt-4o-2024-5-31
+          推荐模型: gpt-4o-2024-5-13
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
