@@ -8,6 +8,7 @@ declare global {
 
       OPENAI_API_KEY?: string;
       CODE?: string;
+      USER_NAME?: string;
 
       BASE_URL?: string;
       OPENAI_ORG_ID?: string; // openai only
