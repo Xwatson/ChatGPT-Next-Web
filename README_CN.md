@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./docs/images/icon.svg" alt="预览"/>
 
-<h1 align="center">NextChat</h1>
+<h1 align="center">AI·Xwatson</h1>
 
 一键免费部署你的私人 ChatGPT 网页应用，支持 GPT3, GPT4 & Gemini Pro 模型。
 
@@ -145,8 +145,9 @@ anthropic claude Api Url.
 ### `WHITE_WEBDEV_ENDPOINTS` (可选)
 
 如果你想增加允许访问的webdav服务地址，可以使用该选项，格式要求：
+
 - 每一个地址必须是一个完整的 endpoint
-> `https://xxxx/xxx`
+  > `https://xxxx/xxx`
 - 多个地址以`,`相连
 
 ### `CUSTOM_MODELS` （可选）
@@ -157,6 +158,7 @@ anthropic claude Api Url.
 用来控制模型列表，使用 `+` 增加一个模型，使用 `-` 来隐藏一个模型，使用 `模型名=展示名` 来自定义模型的展示名，用英文逗号隔开。
 
 ### `DEFAULT_INPUT_TEMPLATE` （可选）
+
 自定义默认的 template，用于初始化『设置』中的『用户输入预处理』配置项
 
 ## 开发
