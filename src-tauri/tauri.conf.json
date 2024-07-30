@@ -8,8 +8,8 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "AI·Xwatson",
-    "version": "2.12.3"
+    "productName": "NextChat",
+    "version": "2.14.0"
   },
   "tauri": {
     "allowlist": {
